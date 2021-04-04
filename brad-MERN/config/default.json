@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://ser:ss11@cluster0.neis1.mongodb.net/brad-mern_shopping-list?retryWrites=true&w=majority",
+  "jwtSecret": "brad_mern_jwt"
+}
